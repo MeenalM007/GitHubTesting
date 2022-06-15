@@ -11,6 +11,11 @@ public class Demo
 	{
         System.out.println("m2 method of Demo class");
 	}
+	
+	public void m3()
+	{
+        System.out.println("m3 method of Demo class");
+	}
 
 	public static void main(String[] args) 
 	{
